@@ -1,3 +1,5 @@
 # ignore everything in db_data directory.
-db-data/*
+db_data/
+db_data/*
+
 
