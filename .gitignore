@@ -1,5 +1,10 @@
-# ignore everything in db_data directory.
-db_data/
-db_data/*
+# ignore everything in db_data, wp_data directory.
+/wp_data
+/db_data
+*.tar.gz
+*.zip
+*.sql
+wp-config.*
+*.sh
 
 
