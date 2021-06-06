@@ -5,6 +5,6 @@
 *.zip
 *.sql
 wp-config.*
-*.sh
+
 
 
